@@ -1,0 +1,24 @@
+.title {
+  font-size: xx-large;
+  font-weight: bold;
+  text-align: center;
+  margin-top: 20px;
+}
+
+.gridTable {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  gap: 5px; 
+  background-color: white; 
+  overflow: hidden;
+  padding: 40px;
+}
+
+.movie-div {
+  padding-bottom: 20px;
+}
+
+.movie-title {
+  font-size: large;
+}
